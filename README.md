@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <img src="https://www.codewars.com/users/xGoldaxe/badges/large" alt="xGoldaxe Codewars Badge">
+<img src="https://badge42.vercel.app/api/v2/cl32v5gfe002009idz16ua818/stats?cursusId=21&coalitionId=45" alt="pleveque 42 Badge">
+
 
 <!--
 **xGoldaxe/xGoldaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
