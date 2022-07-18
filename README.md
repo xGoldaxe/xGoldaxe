@@ -6,7 +6,7 @@
 <hr/>
 <h4 align='center'>
 Take a look at my portfolio :</h4>
-<p align='center>
+<p align='center'>
 <a href='https://pierreevl.vercel.app'>https://pierreevl.vercel.app</a>
 </p>
 <hr/>
