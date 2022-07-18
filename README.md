@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-<h4>
+<p>
 	 I'm Pierre Leveque, Student from @42Paris and also self-taught.<br /> I like to use my computer to create things! I'm always happy to work with good teams on ambitious project, don't hesitate to hit me up 😀
-</h4>
+</p>
 <hr/>
-<p align='center'>
-Take a look at my portfolio :<br />
+<h4 align='center'>
+Take a look at my portfolio :</h4>
+<p>
 <a href='https://pierreevl.vercel.app'>https://pierreevl.vercel.app</a>
 </p>
 <hr/>
