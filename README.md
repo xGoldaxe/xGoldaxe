@@ -4,7 +4,8 @@
 
 <img src="https://www.codewars.com/users/xGoldaxe/badges/large" alt="xGoldaxe Codewars Badge">
 <img src="https://badge42.vercel.app/api/v2/cl32v5gfe002009idz16ua818/stats?cursusId=21&coalitionId=45" alt="pleveque 42 Badge">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xGoldaxe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGoldaxe&layout=compact&theme=tokyonight" alt="xGoldaxe most language">
 
 <!--
 **xGoldaxe/xGoldaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
