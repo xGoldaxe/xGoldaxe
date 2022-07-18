@@ -11,7 +11,7 @@ Take a look at my portfolio :</h4>
 </p>
 <hr/>
 
- <div align="center">
+ <div>
 <img  src="https://github-readme-stats.vercel.app/api?username=xGoldaxe&count_private=true&theme=tokyonight"  alt="xGoldaxe most language">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGoldaxe&layout=compact&theme=tokyonight"  alt="xGoldaxe most language">
  </div>
