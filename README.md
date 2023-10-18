@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-	 I'm Pierre Leveque, Freelance as fullstack developper, Student from @42Paris and also self-taught.<br /> I like to use my computer to create things! I'm always happy to work with good teams on ambitious project, don't hesitate to hit me up 😀
+	 I'm Pierre Leveque, Freelance as fullstack developper, self-taught Student from @42Paris.<br /> I'm always happy to work with good teams on ambitious project, don't hesitate to hit me up 😀
 </p>
 <hr/>
 <h4 align='center'>
